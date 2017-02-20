@@ -1,0 +1,122 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "rn-alipay@^0.2.3",
+        "scope": null,
+        "escapedName": "rn-alipay",
+        "name": "rn-alipay",
+        "rawSpec": "^0.2.3",
+        "spec": ">=0.2.3 <0.3.0",
+        "type": "range"
+      },
+      "/Users/ios_app_01/Documents/RunnerCamp_RN/rcshop-onreact"
+    ],
+    [
+      {
+        "raw": "rn-alipay@git+https://github.com/Muriel0603/RNAlipay.git",
+        "scope": null,
+        "escapedName": "rn-alipay",
+        "name": "rn-alipay",
+        "rawSpec": "git+https://github.com/Muriel0603/RNAlipay.git",
+        "spec": "git+https://github.com/Muriel0603/RNAlipay.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:Muriel0603/RNAlipay.git",
+          "sshUrl": "git+ssh://git@github.com/Muriel0603/RNAlipay.git",
+          "httpsUrl": "git+https://github.com/Muriel0603/RNAlipay.git",
+          "gitUrl": "git://github.com/Muriel0603/RNAlipay.git",
+          "shortcut": "github:Muriel0603/RNAlipay",
+          "directUrl": "https://raw.githubusercontent.com/Muriel0603/RNAlipay/master/package.json"
+        }
+      },
+      "/Users/caoguodong/Desktop/Both/rcshop-onreact"
+    ]
+  ],
+  "_from": "git+https://github.com/Muriel0603/RNAlipay.git",
+  "_id": "rn-alipay@0.2.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/rn-alipay",
+  "_nodeVersion": "4.4.7",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/rn-alipay-0.2.3.tgz_1471247834562_0.3267901760991663"
+  },
+  "_npmUser": {
+    "name": "huangzuizui",
+    "email": "huangzuizui@gmail.com"
+  },
+  "_npmVersion": "3.10.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "rn-alipay@git+https://github.com/Muriel0603/RNAlipay.git",
+    "scope": null,
+    "escapedName": "rn-alipay",
+    "name": "rn-alipay",
+    "rawSpec": "git+https://github.com/Muriel0603/RNAlipay.git",
+    "spec": "git+https://github.com/Muriel0603/RNAlipay.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:Muriel0603/RNAlipay.git",
+      "sshUrl": "git+ssh://git@github.com/Muriel0603/RNAlipay.git",
+      "httpsUrl": "git+https://github.com/Muriel0603/RNAlipay.git",
+      "gitUrl": "git://github.com/Muriel0603/RNAlipay.git",
+      "shortcut": "github:Muriel0603/RNAlipay",
+      "directUrl": "https://raw.githubusercontent.com/Muriel0603/RNAlipay/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/Muriel0603/RNAlipay.git#81554815153de9aef124eae29740a27537369507",
+  "_shasum": "b907d4d09e3845c9ac5cb3af8a3b8c4c1c93f0d5",
+  "_shrinkwrap": null,
+  "_spec": "rn-alipay@git+https://github.com/Muriel0603/RNAlipay.git",
+  "_where": "/Users/caoguodong/Desktop/Both/rcshop-onreact",
+  "author": {
+    "name": "huang zuizui"
+  },
+  "contributors": [
+    {
+      "name": "huang zuizui",
+      "email": "huangzuizui@gmail.com"
+    }
+  ],
+  "dependencies": {},
+  "description": "react native支付宝移动支付模块",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "5b948bedd36424ce505e0df122a4e7c29dd449fb",
+    "tarball": "https://registry.npmjs.org/rn-alipay/-/rn-alipay-0.2.3.tgz"
+  },
+  "gitHead": "be1770179f435161f99e27aefc033098df59aae5",
+  "keywords": [
+    "alipay",
+    "rn-alipay",
+    "react-native-alipay",
+    "pay",
+    "taobao",
+    "alibaba",
+    "支付宝",
+    "淘宝",
+    "支付"
+  ],
+  "license": "MIT",
+  "main": "rn-alipay.js",
+  "maintainers": [
+    {
+      "name": "huangzuizui",
+      "email": "huangzuizui@gmail.com"
+    }
+  ],
+  "name": "rn-alipay",
+  "nativePackage": true,
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "0.2.3"
+}
