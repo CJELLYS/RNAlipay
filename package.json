@@ -32,9 +32,30 @@
         }
       },
       "/Users/caoguodong/Desktop/Both/rcshop-onreact"
+    ],
+    [
+      {
+        "raw": "rn-alipay@git+https://github.com/CJELLYS/RNAlipay.git",
+        "scope": null,
+        "escapedName": "rn-alipay",
+        "name": "rn-alipay",
+        "rawSpec": "git+https://github.com/CJELLYS/RNAlipay.git",
+        "spec": "git+https://github.com/CJELLYS/RNAlipay.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:CJELLYS/RNAlipay.git",
+          "sshUrl": "git+ssh://git@github.com/CJELLYS/RNAlipay.git",
+          "httpsUrl": "git+https://github.com/CJELLYS/RNAlipay.git",
+          "gitUrl": "git://github.com/CJELLYS/RNAlipay.git",
+          "shortcut": "github:CJELLYS/RNAlipay",
+          "directUrl": "https://raw.githubusercontent.com/CJELLYS/RNAlipay/master/package.json"
+        }
+      },
+      "/Users/caoguodong/Desktop/Both/rcshop-onreact"
     ]
   ],
-  "_from": "git+https://github.com/Muriel0603/RNAlipay.git",
+  "_from": "git+https://github.com/CJELLYS/RNAlipay.git",
   "_id": "rn-alipay@0.2.3",
   "_inCache": true,
   "_installable": true,
@@ -51,30 +72,30 @@
   "_npmVersion": "3.10.5",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "rn-alipay@git+https://github.com/Muriel0603/RNAlipay.git",
+    "raw": "rn-alipay@git+https://github.com/CJELLYS/RNAlipay.git",
     "scope": null,
     "escapedName": "rn-alipay",
     "name": "rn-alipay",
-    "rawSpec": "git+https://github.com/Muriel0603/RNAlipay.git",
-    "spec": "git+https://github.com/Muriel0603/RNAlipay.git",
+    "rawSpec": "git+https://github.com/CJELLYS/RNAlipay.git",
+    "spec": "git+https://github.com/CJELLYS/RNAlipay.git",
     "type": "hosted",
     "hosted": {
       "type": "github",
-      "ssh": "git@github.com:Muriel0603/RNAlipay.git",
-      "sshUrl": "git+ssh://git@github.com/Muriel0603/RNAlipay.git",
-      "httpsUrl": "git+https://github.com/Muriel0603/RNAlipay.git",
-      "gitUrl": "git://github.com/Muriel0603/RNAlipay.git",
-      "shortcut": "github:Muriel0603/RNAlipay",
-      "directUrl": "https://raw.githubusercontent.com/Muriel0603/RNAlipay/master/package.json"
+      "ssh": "git@github.com:CJELLYS/RNAlipay.git",
+      "sshUrl": "git+ssh://git@github.com/CJELLYS/RNAlipay.git",
+      "httpsUrl": "git+https://github.com/CJELLYS/RNAlipay.git",
+      "gitUrl": "git://github.com/CJELLYS/RNAlipay.git",
+      "shortcut": "github:CJELLYS/RNAlipay",
+      "directUrl": "https://raw.githubusercontent.com/CJELLYS/RNAlipay/master/package.json"
     }
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git+https://github.com/Muriel0603/RNAlipay.git#81554815153de9aef124eae29740a27537369507",
-  "_shasum": "b907d4d09e3845c9ac5cb3af8a3b8c4c1c93f0d5",
+  "_resolved": "git+https://github.com/CJELLYS/RNAlipay.git#390734b924c8c451d52858c36ea1114bb7467aed",
+  "_shasum": "10b3c811b7a562b5570656f1f5c842ab70357731",
   "_shrinkwrap": null,
-  "_spec": "rn-alipay@git+https://github.com/Muriel0603/RNAlipay.git",
+  "_spec": "rn-alipay@git+https://github.com/CJELLYS/RNAlipay.git",
   "_where": "/Users/caoguodong/Desktop/Both/rcshop-onreact",
   "author": {
     "name": "huang zuizui"
