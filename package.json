@@ -2,12 +2,12 @@
   "_args": [
     [
       {
-        "raw": "rn-alipay@^0.2.3",
+        "raw": "rn-alipay@^0.2.4",
         "scope": null,
         "escapedName": "rn-alipay",
         "name": "rn-alipay",
-        "rawSpec": "^0.2.3",
-        "spec": ">=0.2.3 <0.3.0",
+        "rawSpec": "^0.2.4",
+        "spec": ">=0.2.4 <0.3.0",
         "type": "range"
       },
       "/Users/ios_app_01/Documents/RunnerCamp_RN/rcshop-onreact"
@@ -53,17 +53,38 @@
         }
       },
       "/Users/caoguodong/Desktop/Both/rcshop-onreact"
+    ],
+    [
+      {
+        "raw": "rn-alipay@git+https://github.com/CJELLYS/RNAlipay.git",
+        "scope": null,
+        "escapedName": "rn-alipay",
+        "name": "rn-alipay",
+        "rawSpec": "git+https://github.com/CJELLYS/RNAlipay.git",
+        "spec": "git+https://github.com/CJELLYS/RNAlipay.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:CJELLYS/RNAlipay.git",
+          "sshUrl": "git+ssh://git@github.com/CJELLYS/RNAlipay.git",
+          "httpsUrl": "git+https://github.com/CJELLYS/RNAlipay.git",
+          "gitUrl": "git://github.com/CJELLYS/RNAlipay.git",
+          "shortcut": "github:CJELLYS/RNAlipay",
+          "directUrl": "https://raw.githubusercontent.com/CJELLYS/RNAlipay/master/package.json"
+        }
+      },
+      "/Users/test/Desktop/Both/RunnerCampShop"
     ]
   ],
   "_from": "git+https://github.com/CJELLYS/RNAlipay.git",
-  "_id": "rn-alipay@0.2.3",
+  "_id": "rn-alipay@0.2.4",
   "_inCache": true,
   "_installable": true,
   "_location": "/rn-alipay",
   "_nodeVersion": "4.4.7",
   "_npmOperationalInternal": {
     "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/rn-alipay-0.2.3.tgz_1471247834562_0.3267901760991663"
+    "tmp": "tmp/rn-alipay-0.2.4.tgz_1471247834562_0.3267901760991663"
   },
   "_npmUser": {
     "name": "huangzuizui",
@@ -92,11 +113,11 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git+https://github.com/CJELLYS/RNAlipay.git#390734b924c8c451d52858c36ea1114bb7467aed",
-  "_shasum": "10b3c811b7a562b5570656f1f5c842ab70357731",
+  "_resolved": "git+https://github.com/CJELLYS/RNAlipay.git#0baec0a97fe1ea743476deea359c9b1cb49cc1f9",
+  "_shasum": "915a536e55ac5748e5a5196b123f2fc33af629a0",
   "_shrinkwrap": null,
   "_spec": "rn-alipay@git+https://github.com/CJELLYS/RNAlipay.git",
-  "_where": "/Users/caoguodong/Desktop/Both/rcshop-onreact",
+  "_where": "/Users/test/Desktop/Both/RunnerCampShop",
   "author": {
     "name": "huang zuizui"
   },
@@ -112,7 +133,7 @@
   "directories": {},
   "dist": {
     "shasum": "5b948bedd36424ce505e0df122a4e7c29dd449fb",
-    "tarball": "https://registry.npmjs.org/rn-alipay/-/rn-alipay-0.2.3.tgz"
+    "tarball": "https://registry.npmjs.org/rn-alipay/-/rn-alipay-0.2.4.tgz"
   },
   "gitHead": "be1770179f435161f99e27aefc033098df59aae5",
   "keywords": [
@@ -139,5 +160,5 @@
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "scripts": {},
-  "version": "0.2.3"
+  "version": "0.2.4"
 }

@@ -1,8 +1,8 @@
 #import "RNAlipay.h"
 #import "Order.h"
 #import "DataSigner.h"
-#import "RCTBridge.h"
-#import "RCTEventDispatcher.h"
+#import <React/RCTBridge.h>
+#import <React/RCTEventDispatcher.h>
 #import <AlipaySDK/AlipaySDK.h>
 
 static RNAlipay * instance = nil;
