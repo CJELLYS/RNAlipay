@@ -1,9 +1,18 @@
 #import "RNAlipay.h"
 #import "Order.h"
 #import "DataSigner.h"
+#import <AlipaySDK/AlipaySDK.h>
+
+#if __has_include(<React/RCTBridge.h>)
 #import <React/RCTBridge.h>
 #import <React/RCTEventDispatcher.h>
-#import <AlipaySDK/AlipaySDK.h>
+#elif __has_include("RCTBridge.h")
+#import "RCTEventDispatcher.h"
+#import "RCTBridge.h"
+#elif __has_include("React/RCTBridge.h")
+#import "React/RCTEventDispatcher.h"
+#import "React/RCTBridge.h"
+#endif
 
 static RNAlipay * instance = nil;
 
